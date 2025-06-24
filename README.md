@@ -1,1 +1,1 @@
-# powertoys_msi
+in deze repo staat de software die nodig is om powertoys te implementeren binnen bedrijven. 
